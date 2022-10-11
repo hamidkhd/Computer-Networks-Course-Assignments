@@ -1,0 +1,12 @@
+[submodule "Network-CA2"]
+	path = Network-CA2
+	url = https://github.com/hamidkhd/Network-CA2
+[submodule "Network-SocketProgramming"]
+	path = Network-SocketProgramming
+	url = https://github.com/hamidkhd/Network-SocketProgramming
+[submodule "Network-NS2"]
+	path = Network-NS2
+	url = https://github.com/hamidkhd/Network-NS2
+[submodule "Network-CA3"]
+	path = Network-CA3
+	url = https://github.com/hamidkhd/Network-CA3
